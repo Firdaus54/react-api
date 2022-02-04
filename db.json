@@ -1,0 +1,89 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "firdaus",
+            "alamat": "Jakarta",
+            "umur": 18,
+            "email": "firdaus@gmail.com"
+          },
+          {
+            "id": 2,
+            "nama": "Amin",
+            "alamat": "Jombang",
+            "umur":19,
+            "email": "Amin@gmail.com"
+          },
+          {
+            "id": 3,
+            "nama": "Putri",
+            "alamat": "Blitar",
+            "umur": 18,
+            "email": "Putri@gmail.com"
+          },
+          {
+            "id": 4,
+            "nama": "firdaus",
+            "alamat": "Jakarta",
+            "umur": 18,
+            "email": "firdaus@gmail.com"
+          },
+          {
+            "id": 5,
+            "nama": "Amin",
+            "alamat": "Jombang",
+            "umur": 19,
+            "email": "Amin@gmail.com"
+          },
+          {
+            "id": 6,
+            "nama": "Putri",
+            "alamat": "Blitar",
+            "umur": 18,
+            "email": "Putri@gmail.com"
+          },
+          {
+            "id": 7,
+            "nama": "firdaus",
+            "alamat": "Jakarta",
+            "umur": 18,
+            "email": "firdaus@gmail.com"
+          },
+          {
+            "id": 8,
+            "nama": "Amin",
+            "alamat": "Jombang",
+            "umur": 19,
+            "email": "Amin@gmail.com"
+          },
+          {
+            "id": 9,
+            "nama": "Putri",
+            "alamat": "Blitar",
+            "umur": 18,
+            "email": "Putri@gmail.com"
+          },
+          {
+            "id": 10,
+            "nama": "firdaus",
+            "alamat": "Jakarta",
+            "umur": 18,
+            "email": "firdaus@gmail.com"
+          },
+          {
+            "id":11,
+            "nama": "Amin",
+            "alamat": "Jombang",
+            "umur": 19,
+            "email": "Amin@gmail.com"
+          },
+          {
+            "id": 12,
+            "nama": "Putri",
+            "alamat": "Blitar",
+            "umur": 18,
+            "email": "Putri@gmail.com"
+          }
+        
+    ]
+}
